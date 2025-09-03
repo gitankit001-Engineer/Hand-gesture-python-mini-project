@@ -1,4 +1,4 @@
-# Hand-gesture-python-mini-project
+# python-mini-project
 # 🖐️ Virtual Mouse using Hand Detection
 
 This project lets you **control your computer mouse with hand gestures** using OpenCV, CVZone (Mediapipe), and PyAutoGUI.  
